@@ -29,4 +29,28 @@ Aqui estão artigos recentes para cada tema dos slides da sua apresentação sob
 
 6. **Slide 6 (Demanda por Profissionais)**: "A futuristic job market infographic showing the growing demand for AI professionals, especially in object detection and 4D vision. Depict job roles like machine learning engineers and data scientists with digital graphs and AI-related visuals."
 
-Esses prompts devem fornecer uma base sólida para a criação de slides visuais que complementam sua apresentação.
+---
+
+Aqui estão os links dos artigos mais recentes para cada tema abordado na sua apresentação sobre "IA Aplicada ao Reconhecimento de Objetos / Visão 4D":
+
+### **Slide 2: Histórico da Tecnologia**
+- **Artigo:** "A Comprehensive Study of Real-Time Object Detection Networks Across Multiple Domains: A Survey" (2022)
+- **Link:** [A Comprehensive Study of Real-Time Object Detection](https://arxiv.org/abs/2208.10895)【14†source】
+
+### **Slide 3: Características da Tecnologia**
+- **Artigo:** "Object Detection Using YOLO: Challenges, Architectural Successors, Datasets and Applications" (2022)
+- **Link:** [Object Detection Using YOLO](https://link.springer.com/article/10.1007/s11042-022-12062-2)【12†source】
+
+### **Slide 4: Vantagens e Desvantagens**
+- **Artigo:** "AI-based Object Detection Latest Trends in Remote Sensing, Multimedia, and Agriculture Applications" (2022)
+- **Link:** [AI-based Object Detection Latest Trends](https://www.frontiersin.org/articles/10.3389/frai.2022.867084/full)【13†source】
+
+### **Slide 5: Exemplos de Aplicações**
+- **Artigo:** "AI in Remote Sensing: Object Detection Applications" (2022)
+- **Link:** [AI-based Object Detection in Remote Sensing](https://www.frontiersin.org/articles/10.3389/frai.2022.867084/full)【13†source】
+
+### **Slide 6: Demanda por Profissionais**
+- **Artigo:** "Real-Time Object Detection: Current Trends" (2022)
+- **Link:** [A Comprehensive Study of Real-Time Object Detection](https://arxiv.org/abs/2208.10895)【14†source】
+
+Esses links direcionam para artigos relevantes e atuais sobre o tema, que você pode utilizar para aprofundar sua pesquisa e fortalecer a apresentação.
