@@ -114,6 +114,8 @@ Esses links fornecem uma base sólida para explorar cada tema em profundidade.
 
 ---
 
+### **Slides com os artigos mais RECENTES sobre AI in ComputerVision
+
 ### **Slide 2: Histórico da Tecnologia**
 - **Artigo:** "A Comprehensive Study of Real-Time Object Detection Networks" (2022) explora o progresso da detecção de objetos em tempo real, abordando arquiteturas modernas como redes baseadas em transformadores e sua evolução nos últimos anos. O estudo destaca a transição de métodos tradicionais para técnicas de aprendizado profundo, como Faster R-CNN e YOLO【12】.
 
