@@ -1,5 +1,32 @@
 Aqui estão artigos recentes para cada tema dos slides da sua apresentação sobre "IA Aplicada ao Reconhecimento de Objetos / Visão 4D":
 
+---
+
+Aqui estão os links para os artigos usados em cada parte da sua apresentação:
+
+1. **Histórico da Tecnologia:**
+   - [Reconhecimento de Objetos com AlexNet e YOLO](https://lapix.ufsc.br/deep-learning-reconhecimento-de-imagens/)【16†source】
+   - [YOLOv8: Detecção de Objetos de Última Geração](https://visionplatform.ai/yolov8-object-detection)【14†source】
+
+2. **Características da Tecnologia:**
+   - [Visão Computacional e Redes Neurais Convolucionais](https://aws.amazon.com/pt/what-is/computer-vision/)【12†source】
+   - [Inteligência Artificial Aplicada em Imagens](https://blog.culte.com.br/inteligencia-artificial-aplicada-imagens/)【15†source】
+
+3. **Vantagens e Desvantagens:**
+   - [Visão Computacional em Aplicações do Mundo Real](https://aws.amazon.com/pt/what-is/computer-vision/)【12†source】
+   - [Comparação de Ferramentas de IA para Processamento de Imagens](https://blog.culte.com.br/inteligencia-artificial-aplicada-imagens/)【15†source】
+
+4. **Exemplos de Aplicações:**
+   - [IA em Veículos Autônomos e Saúde](https://aws.amazon.com/pt/what-is/computer-vision/)【12†source】
+   - [Aplicações de IA em Análise de Imagens Médicas e Automotiva](https://blog.culte.com.br/inteligencia-artificial-aplicada-imagens/)【15†source】
+
+5. **Demanda por Profissionais:**
+   - [O Futuro da IA e a Demanda por Profissionais](https://www.scielo.br/journal/artigo/inteligencia-artificial-aprendizado-de-maquina/)【13†source】
+
+Esses links fornecem uma base sólida para explorar cada tema em profundidade.
+
+---
+
 ### **Slide 2: Histórico da Tecnologia**
 - **Artigo:** "A Comprehensive Study of Real-Time Object Detection Networks" (2022) explora o progresso da detecção de objetos em tempo real, abordando arquiteturas modernas como redes baseadas em transformadores e sua evolução nos últimos anos. O estudo destaca a transição de métodos tradicionais para técnicas de aprendizado profundo, como Faster R-CNN e YOLO【12】.
 
