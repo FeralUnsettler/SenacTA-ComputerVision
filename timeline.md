@@ -7,7 +7,7 @@ Aqui está uma linha do tempo destacando marcos importantes no reconhecimento de
 - **1956**: John McCarthy cunha o termo "Inteligência Artificial" na conferência de Dartmouth.
 - **1960s**: Técnicas básicas de reconhecimento de padrões começam a ser exploradas, como o uso de estatísticas para classificar padrões em imagens.
 
-1. **DENDRAL** (1965) - Um dos primeiros sistemas especialistas, focado na análise de moléculas. Essa tecnologia foi pioneira no reconhecimento de padrões químicos, abrindo caminho para a IA em outras áreas【10†source】.
+1. **DENDRAL** (1965) - Um dos primeiros sistemas especialistas, focado na análise de moléculas. Essa tecnologia foi pioneira no reconhecimento de padrões químicos, abrindo caminho para a IA em outras áreas (https://www.computerhistory.org/timeline/1965/#169ebbe2ad45559efbc6eb357200f3cc).
 
 **1970s-1980s**  
 **Primeiros Algoritmos de Reconhecimento de Objetos**  
