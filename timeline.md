@@ -7,13 +7,20 @@ Aqui está uma linha do tempo destacando marcos importantes no reconhecimento de
 - **1956**: John McCarthy cunha o termo "Inteligência Artificial" na conferência de Dartmouth.
 - **1960s**: Técnicas básicas de reconhecimento de padrões começam a ser exploradas, como o uso de estatísticas para classificar padrões em imagens.
 
+1. **DENDRAL** (1965) - Um dos primeiros sistemas especialistas, focado na análise de moléculas. Essa tecnologia foi pioneira no reconhecimento de padrões químicos, abrindo caminho para a IA em outras áreas【10†source】.
+
 **1970s-1980s**  
 **Primeiros Algoritmos de Reconhecimento de Objetos**  
 - **1973**: Teoria de "Reconhecimento de Padrões" é formalizada, sendo aplicada em tarefas como leitura de caracteres (OCR).
 - **1980s**: Redes Neurais Artificiais começam a ganhar popularidade, mas com limitações devido à baixa capacidade de processamento.
+- 2. **Redes Neurais Profundas** - Com o desenvolvimento do algoritmo de **backpropagation** em 1986, as redes neurais convolucionais se tornaram essenciais no reconhecimento de padrões em imagens【11†source】.
+
 
 **1990s**  
 **Melhoria em Algoritmos e Modelos Baseados em Regras**  
+
+3. **Década de 1990**: **LeNet-5** - Primeira rede neural convolucional significativa usada para reconhecimento de manuscritos, criada por Yann LeCun【11†source】.
+
 - **1991**: David Marr propõe a teoria computacional da visão, criando um quadro para entender como as máquinas podem interpretar imagens.
 - **1998**: Yann LeCun desenvolve a LeNet-5, uma das primeiras redes neurais convolucionais (CNNs) usadas para reconhecimento de dígitos manuscritos (usada para o sistema postal dos EUA).
 
@@ -21,6 +28,7 @@ Aqui está uma linha do tempo destacando marcos importantes no reconhecimento de
 **Avanços na Visão Computacional e Redes Neurais Convolucionais**  
 - **2005**: O desenvolvimento de algoritmos como SIFT (Scale-Invariant Feature Transform) e SURF (Speeded Up Robust Features) melhora o reconhecimento de características em imagens, permitindo a detecção de objetos independentes da escala ou rotação.
 - **2006**: Geoffrey Hinton apresenta o conceito de "deep learning", inaugurando uma nova era de aprendizado em redes neurais profundas.
+
 
 **2012**  
 **AlexNet e o Salto do Deep Learning**  
