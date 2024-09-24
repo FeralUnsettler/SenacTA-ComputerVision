@@ -47,3 +47,40 @@ Aqui está uma linha do tempo destacando marcos importantes no reconhecimento de
 ---
 
 Essa linha do tempo destaca a evolução do reconhecimento de objetos, desde os primórdios com padrões e estatísticas até as poderosas redes neurais profundas e modelos de detecção em tempo real.
+
+
+Aqui está a linha do tempo solicitada, com links para imagens ilustrativas de cada marco histórico do reconhecimento de objetos com IA:
+
+1. **1956: Criação do termo "Inteligência Artificial"**
+   - John McCarthy e outros pioneiros realizaram o workshop de Dartmouth, que deu origem ao termo "Inteligência Artificial".
+   - [Imagem do evento no Museu da História do Computador](https://computerhistory.org/events/1956-dartmouth-workshop-its-immediate/)【9†source】
+
+2. **1973: Formalização da Teoria do Reconhecimento de Padrões**
+   - O conceito de reconhecimento de padrões começa a ser utilizado em várias tarefas como OCR (Reconhecimento Óptico de Caracteres).
+   - [OCR antiga em ação](https://www.vecteezy.com/vector-art/13235150-handwriting-recognition-with-ocr-image-vector) (exemplo de OCR em manuscritos)
+
+3. **1991: Teoria Computacional da Visão de David Marr**
+   - Marr propôs um modelo matemático para entender como a visão computacional pode funcionar em máquinas.
+   - [Esquema do modelo de visão de Marr](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Marr_vision_processing.jpg/640px-Marr_vision_processing.jpg)
+
+4. **1998: Criação da LeNet-5 de Yann LeCun**
+   - LeCun desenvolveu uma das primeiras CNNs aplicadas ao reconhecimento de dígitos manuscritos.
+   - [Estrutura da LeNet-5](https://upload.wikimedia.org/wikipedia/commons/6/66/LeNet5.png)
+
+5. **2005: Algoritmos SIFT e SURF**
+   - Esses algoritmos revolucionaram a detecção de características, permitindo reconhecimento de objetos em diferentes escalas e rotações.
+   - [Imagem de detecção de características com SIFT](https://miro.medium.com/v2/resize:fit:1000/1*v3G_K9zJOU16mP8tovcExQ.png)
+
+6. **2012: AlexNet vence o desafio ImageNet**
+   - A AlexNet trouxe avanços significativos no uso de redes neurais profundas e GPUs para o treinamento.
+   - [Diagrama da AlexNet](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/AlexNet_structure.png/640px-AlexNet_structure.png)
+
+7. **2015: Criação do YOLO**
+   - YOLO revolucionou a detecção de objetos em tempo real com um modelo de execução única.
+   - [YOLO aplicado a detecção de objetos](https://www.researchgate.net/profile/Eswar-Raju-Kintali-2/publication/352342001/figure/fig2/AS:1046511269472256@1623397238450/Object-detection-examples-using-YOLO-3-6-7-8.ppm)
+
+8. **2019: Modelo EfficientDet**
+   - Este modelo otimizado equilibra precisão e eficiência no reconhecimento de objetos.
+   - [Diagrama do EfficientDet](https://miro.medium.com/v2/resize:fit:500/format:webp/1*ugAkSeOaFFjoMsV2nD6dnA.png)
+
+Essas imagens são exemplos ilustrativos, cada uma ligada aos respectivos momentos chave no avanço da IA para reconhecimento de objetos.
