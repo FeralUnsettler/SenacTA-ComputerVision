@@ -1,6 +1,4 @@
-Aqui está uma linha do tempo destacando marcos importantes no reconhecimento de objetos usando inteligência artificial, desde o desenvolvimento inicial de reconhecimento de padrões até os modelos modernos de deep learning como AlexNet e YOLO:
-
----
+--
 
 **1950s-1960s**  
 **Início do Reconhecimento de Padrões**  
